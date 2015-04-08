@@ -1,2 +1,3 @@
 # promisified-jquery-ajax
-Promisified jQuery.ajax
+
+A simple Promise wrapper around jQuery.ajax
