@@ -1,0 +1,24 @@
+{
+  "name": "promisified-jquery-ajax",
+  "version": "0.1.0",
+  "description": "Promise wrapper for jQuery.ajax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielma/promisified-jquery-ajax"
+  },
+  "keywords": [
+    "promise",
+    "jquery",
+    "ajax"
+  ],
+  "author": "Daniel Ma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielma/promisified-jquery-ajax/issues"
+  },
+  "homepage": "https://github.com/danielma/promisified-jquery-ajax"
+}
